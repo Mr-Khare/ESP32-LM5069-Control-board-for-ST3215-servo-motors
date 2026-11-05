@@ -1,0 +1,47 @@
+# =====================================================================
+# Altium Designer .gitignore
+# =====================================================================
+
+# Local History and Auto-generated Backups
+History/
+__Previews/
+*.Zip
+
+# Project Compilation and Generation Outputs
+Project Outputs for */
+Project Outputs/
+Outputs/
+Outputs_*/
+
+# Workspace & User Settings (local window positions, layout caches)
+*.Workspace
+*.PrjPcbStructure
+*.DsnWrkStructure
+*.PcbLibStructure
+*.SchLibStructure
+
+# Temporary & Working Files
+*.Dat
+*.dat
+*.tmp
+*.TMP
+*.log
+*.LOG
+*.out
+*.OUT
+*.orig
+*.~*
+
+# Simulation and Analysis Caches
+*.nsx
+*.sdf
+*.cir
+
+# Version Control Caches & Locks
+*.lck
+*.lock
+
+# OS Specific Junk
+Thumbs.db
+Desktop.ini
+.DS_Store
